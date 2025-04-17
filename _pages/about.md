@@ -26,7 +26,7 @@ Work experience
   * Designed and developed a prototype multi-agent digital twin system 
   * Supervisor: Professor David Wagg
 * March 2023 - September 2023: Research Associate, Mechanical Engineering, University of Sheffield
-  * EPSRC "DigiTwin" project, focusing on developing ontology and knowledge graph for digital twins
+  * EPSRC 'DigiTwin' project, focusing on developing ontology and knowledge graph for digital twins
   * Supervisor: Professor David Wagg
 
 
