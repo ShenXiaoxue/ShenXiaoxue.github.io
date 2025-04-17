@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoxue Shen Academic Pages "
+title: "Xiaoxue Shen "
 author_profile: true
 redirect_from: 
   - /about/
