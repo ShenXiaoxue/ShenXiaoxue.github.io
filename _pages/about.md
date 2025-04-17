@@ -14,20 +14,17 @@ My research interest lie in Acoustics, Structure-borne sound, Knowledge Graphs, 
 Education
 ======
 * PhD in Structure-borne Sound, 2018 - 2023, University of Liverpool, UK
-  *  Fully funded by the EU Horizon 2020 Marie Curie 'ACOUTECT' project
-  *  Supervisor: Professor Carl Hopkins
+  *  Fully funded by the EU Horizon 2020 Marie Curie 'ACOUTECT' project. Supervisor: Professor Carl Hopkins
 * M.S. in Traffic and Transportation Engineering, 2014 - 2017, Central South University, Changsha, China
 * B.S. in Traffic and Transportation Engineering, 2010 - 2014, Central South University, Changsha, China
 
 Work experience
 ======
 * October 2023 - Present: Research Associate, TRIC-DT, Alan Turing Institute, London
-  * Neuro-Symbolic AI for digital twins
+  * Neuro-Symbolic AI for digital twins. Supervisor: Professor David Wagg
   * Designed and developed a prototype multi-agent digital twin system 
-  * Supervisor: Professor David Wagg
 * March 2023 - September 2023: Research Associate, Mechanical Engineering, University of Sheffield
-  * EPSRC 'DigiTwin' project, focusing on developing ontology and knowledge graph for digital twins
-  * Supervisor: Professor David Wagg
+  * EPSRC 'DigiTwin' project, focusing on developing ontology and knowledge graph for digital twins. Supervisor: Professor David Wagg
 
 
 News
