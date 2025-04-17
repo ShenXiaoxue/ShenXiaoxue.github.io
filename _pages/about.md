@@ -13,10 +13,10 @@ My research interest lie in Acoustics, Structure-borne sound, Knowledge Graphs, 
 
 Education
 ======
-* PhD in Structure-borne Sound, 2018 - 2023, University of Liverpool, UK
+* PhD in Structure-borne Sound, 2018 - 2023, University of Liverpool
   *  Fully funded by the EU Horizon 2020 Marie Curie 'ACOUTECT' project. Supervisor: Professor Carl Hopkins
-* M.S. in Traffic and Transportation Engineering, 2014 - 2017, Central South University, Changsha, China
-* B.S. in Traffic and Transportation Engineering, 2010 - 2014, Central South University, Changsha, China
+* M.S. in Traffic and Transportation Engineering, 2014 - 2017, Central South University
+* B.S. in Traffic and Transportation Engineering, 2010 - 2014, Central South University
 
 Work experience
 ======
