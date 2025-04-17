@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Xiaoxue (it means small snow in Chinese). I am currently a postdoc researcher at the Alan Turing Institute researching on digital twins. I joined the TRIC-DT team at Turing in Oct 2023, working with Professor David Wagg. Prior to this, I obtained my PhD at the Acoustics Research Unit of the University of Liverpool and I have been advised by Professor Carl Hopkins.
+Hi there! My name is Xiaoxue (it means 'Snow' in Chinese). I am currently a postdoc researcher at the Alan Turing Institute researching on digital twins. I joined the TRIC-DT team at Turing in Oct 2023, working with Professor David Wagg. Prior to this, I obtained my PhD at the Acoustics Research Unit of the University of Liverpool and I have been advised by Professor Carl Hopkins.
 
 My research interest lie in Acoustics, Structure-borne sound, Knowledge Graphs, Digital Twins.
 
